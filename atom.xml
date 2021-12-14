@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Jspro_x</title>
   
-  <subtitle>Jspro_x</subtitle>
+  <subtitle>Jspro_x&#39;Blog</subtitle>
   <link href="http://jspro-x.github.io/atom.xml" rel="self"/>
   
   <link href="http://jspro-x.github.io/"/>
-  <updated>2021-12-14T06:38:55.961Z</updated>
+  <updated>2021-12-14T10:54:55.185Z</updated>
   <id>http://jspro-x.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://jspro-x.github.io/2021/12/13/css-gao-ji-yun-yong-yi/"/>
     <id>http://jspro-x.github.io/2021/12/13/css-gao-ji-yun-yong-yi/</id>
     <published>2021-12-13T13:14:50.000Z</published>
-    <updated>2021-12-14T06:38:55.961Z</updated>
+    <updated>2021-12-14T10:54:55.185Z</updated>
     
     
       
@@ -34,8 +34,10 @@
     
     
     
+    <category term="web" scheme="http://jspro-x.github.io/categories/web/"/>
     
-    <category term="web前端" scheme="http://jspro-x.github.io/tags/web%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="css" scheme="http://jspro-x.github.io/tags/css/"/>
     
   </entry>
   
